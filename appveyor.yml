@@ -59,7 +59,7 @@ clone_folder: C:\projects\cmangos
 branches:
   # whitelist
   only:
-    - master
+    - appveyor
 
 # Do not build on tags (GitHub only)
 skip_tags: true
